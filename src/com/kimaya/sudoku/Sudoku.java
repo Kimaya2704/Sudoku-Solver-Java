@@ -2,7 +2,7 @@ package com.kimaya.sudoku;
 
 import java.util.Scanner;
 public class Sudoku {
-    
+
 
 
     private int[][] sudokuBoard;
